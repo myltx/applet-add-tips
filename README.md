@@ -5,7 +5,7 @@
 | ----------- | ----------- | ----------- |----------- |
 | text      | 提示文字   | String | 「添加小程序」访问更便捷!'
 | isCache   | 是否需要缓存用户手动关闭时间（用于再次进入是否需要提示）  | Boolean | true
-| time   | 缓存时间 (单位小时) | Number、String | 7
+| time   | 缓存时间 (单位天) | Number、String | 7
 | delay   | 自动关闭时间 (单位秒)， 如果没有传入 或 为 0 就默认不自动隐藏 | Number、String | 0
 | customNav   | 是否是自定义导航栏  | Boolean | false
 
