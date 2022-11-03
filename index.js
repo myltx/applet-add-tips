@@ -15,7 +15,7 @@ Component({
       type: Boolean,
       value: true
     },
-    // 缓存时间 (单位小时)
+    // 缓存时间 (单位天)
     time: {
       type: Number | String,
       value: 7
